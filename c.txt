@@ -1,0 +1,28 @@
+Data types - int, string, boolean, float, char, None
+
+
+operators in python:
+1) Airthmatic operators -> +, -, / , %(modulus) , *
+2) Assignment operator -> =, += , -=, *=
+3) comparision operator -> > , < , >= , == , !=
+4) Logical operators -> and , or , not
+
+String slicing
+
+Lists, tuples
+
+
+
+
+
+contionional statements
+loops - for, while
+
+
+comments - # - single line comment
+	''' this is multi line comment'''
+
+
+modules: 1) built in modules in python - random 
+2) external modules - pip(package manager) - eg. flask, django, numpy, pandas, scipy
+
